@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿## 简介
 
 ThinkPHP 是一个免费开源的，快速、简单的面向对象的 轻量级PHP开发框架 ，创立于2006年初，遵循Apache2开源协议发布，是为了敏捷WEB应用开发和简化企业应用开发而诞生的。ThinkPHP从诞生以来一直秉承简洁实用的设计原则，在保持出色的性能和至简的代码的同时，也注重易用性。并且拥有众多的原创功能和特性，在社区团队的积极参与下，在易用性、扩展性和性能方面不断优化和改进，已经成长为国内最领先和最具影响力的WEB应用开发框架，众多的典型案例确保可以稳定用于商业以及门户级的开发。
@@ -35,3 +36,26 @@ ThinkPHP从诞生以来一直秉承大道至简的开发理念，无论从底层
 ## 商业友好的开源协议
 
 ThinkPHP遵循Apache2开源协议发布。Apache Licence是著名的非盈利开源组织Apache采用的协议。该协议和BSD类似，鼓励代码共享和尊重原作者的著作权，同样允许代码修改，再作为开源或商业软件发布。
+=======
+# nextDate
+一个日历小应用，可以根据输入显示下一天的信息，包括日期，星期，农历等，是和室友合作完成
+
+前端上模仿真实日历效果，有撕掉和回复效果
+
+后端使用thinkphp进行编写，并调用了聚合数据的万年历api
+
+前端由本人完成，后端由室友 Yohann Lee完成
+
+前端方面，除原生html+css+js外，使用了backstrech，textillate和animate.css
+
+友情链接：
+万年历api：https://www.juhe.cn/docs/api/id/177
+
+backstrech：实现动态且自适应的图片背景 https://github.com/jquery-backstretch/jquery-backstretch
+
+textillate:优秀的文本动画插件 https://github.com/jschr/textillate
+
+animate：优秀的动画插件 https://daneden.github.io/animate.css/
+
+
+>>>>>>> 398061e6a51ef3e2264da7f7080c80bf465a157a
